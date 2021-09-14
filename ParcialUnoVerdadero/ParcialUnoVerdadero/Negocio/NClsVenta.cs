@@ -22,7 +22,12 @@ namespace ParcialUnoVerdadero.Negocio
                 return "El total es de $" + ventas.Total + " y el descuento es de $" + descuento;
 
             }
-            return "El total es de $ " + ventas.Total;
+            else
+            {
+                return "El total es de $ " + ventas.Total;
+
+            }
+            
             
         }
         public override string ToString()
