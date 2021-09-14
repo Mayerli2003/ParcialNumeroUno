@@ -23,7 +23,7 @@ namespace ParcialUnoVerdadero.Negocio
                 usuario.X = 2;
                 return "El usuario ingresado es incorrecto intentelo de nuevo ";
             }
-
+            //la utilidad de la x es para ayudar con el registro de los usuarios 
 
 
         }
