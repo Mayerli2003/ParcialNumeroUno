@@ -1,0 +1,7 @@
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\ParcialNumeroUno\ParcialUnoVerdadero\ParcialUnoVerdadero\bin\Debug\ParcialUnoVerdadero.exe.config
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\ParcialNumeroUno\ParcialUnoVerdadero\ParcialUnoVerdadero\bin\Debug\ParcialUnoVerdadero.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\ParcialNumeroUno\ParcialUnoVerdadero\ParcialUnoVerdadero\bin\Debug\ParcialUnoVerdadero.pdb
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\ParcialNumeroUno\ParcialUnoVerdadero\ParcialUnoVerdadero\obj\Debug\ParcialUnoVerdadero.csproj.AssemblyReference.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\ParcialNumeroUno\ParcialUnoVerdadero\ParcialUnoVerdadero\obj\Debug\ParcialUnoVerdadero.csproj.CoreCompileInputs.cache
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\ParcialNumeroUno\ParcialUnoVerdadero\ParcialUnoVerdadero\obj\Debug\ParcialUnoVerdadero.exe
+C:\Users\Monta\OneDrive\Documents\GitHub\Clases-generales\ParcialNumeroUno\ParcialUnoVerdadero\ParcialUnoVerdadero\obj\Debug\ParcialUnoVerdadero.pdb
