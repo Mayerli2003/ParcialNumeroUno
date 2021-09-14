@@ -12,6 +12,7 @@ namespace ParcialUnoVerdadero
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Bienvenido al programa");
             ClsUsuario clsUsuario = new ClsUsuario();
             NClsUsuario nClsUsuario = new NClsUsuario();
             Console.WriteLine("Ingrese su usuario");
@@ -25,6 +26,7 @@ namespace ParcialUnoVerdadero
             {
                 ClsVentas clsVentas = new ClsVentas();
                 NClsVenta nClsVenta = new NClsVenta();
+
                 Console.WriteLine("ingrese el identificador");
                 clsVentas.Idproducto = int.Parse(Console.ReadLine());
                 Console.WriteLine("ingrese el nombre producto");
@@ -37,7 +39,7 @@ namespace ParcialUnoVerdadero
                 clsVentas.CantidadProducto = int.Parse(Console.ReadLine());
 
                 Console.WriteLine(nClsVenta.cobro(clsVentas));
-                Console.WriteLine(nClsVenta.ToString());
+                Console.WriteLine(clsVentas.ToString());
 
 
 

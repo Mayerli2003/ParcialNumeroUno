@@ -30,17 +30,6 @@ namespace ParcialUnoVerdadero.Negocio
             
             
         }
-        public override string ToString()
-        {
-            return "Datos de la venta " +
-               "\n Identificador:"+ clsVentas.Idproducto + 
-               "\nNombre: " + clsVentas.NombreProducto +
-               "\nDescripcion:" + clsVentas.DescripcionProducto +
-               "\nPrecio: "+ clsVentas.PrecioProducto+
-               "\nCantidad:"+ clsVentas.CantidadProducto+
-               "\n Total:"+clsVentas.Total;
-
-        }
-
+        
     }
 }

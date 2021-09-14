@@ -12,7 +12,7 @@ namespace ParcialUnoVerdadero.Entidades
         private string contraseña;
         private int x;
 
-       
+       // la variable x es la que me ayuda en la parte final en el ciclo while 
 
         public string Nombre { get => nombre; set => nombre = value; }
         public string Contraseña { get => contraseña; set => contraseña = value; }

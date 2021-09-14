@@ -14,7 +14,7 @@ namespace ParcialUnoVerdadero.Entidades
         private double precioProducto;
         private int cantidadProducto;
         private double total;
-
+        //La variable total es la que almacenara la informacion del costo del producto
        
         
 
@@ -26,5 +26,30 @@ namespace ParcialUnoVerdadero.Entidades
         public double PrecioProducto { get => precioProducto; set => precioProducto = value; }
         public int CantidadProducto { get => cantidadProducto; set => cantidadProducto = value; }
         public double Total { get => total; set => total = value; }
+
+        public override string ToString()
+        {
+
+            return "Datos de la venta " +
+               "\nIdentificador:" + Idproducto +
+               "\nNombre: " + NombreProducto +
+               "\nDescripcion:" + DescripcionProducto +
+               "\nPrecio: " + PrecioProducto +
+               "\nCantidad:" +CantidadProducto +
+               "\nTotal:" + Total;
+
+
+
+        }
+
+
     }
+    
+    
+    
+    
+
+
+    
+
 }
